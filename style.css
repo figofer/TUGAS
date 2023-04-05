@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.jawaban{
+    background-color: rgb(219, 213, 205);
+    width: 500px;
+    margin: 20px 0;
+    padding: 20px;
+}
